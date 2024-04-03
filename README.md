@@ -26,7 +26,7 @@ VMR0006 addresses a critical need in mitigating environmental challenges associa
 
 ### Workflow 
 
-![VMR0006 - workflow](https://github.com/Ni8crawler18/VMR0006-DLT/assets/149990456/817fad1e-b685-4024-8f0d-751e16e12421)
+![Screenshot from 2024-04-03 23-25-03](https://github.com/Ni8crawler18/VMR0006-DLT/assets/149990456/c6c9baa8-8c52-4558-8246-032895b391e0)
 
 The project proponent initiates the process by creating a project design document (VMR0006) for Verra, which includes details such as project description, additionality demonstration, baseline scenario, and estimated emission reductions. Verra and the Validation/Verification Body (VVB) review the project design document. Once approved, Emission reduction credits (ERC) are issued by Verra. The project is then added to the registry, and the project activities are monitored as per the VMR0006 guidelines. The monitored parameters are documented in a monitoring report, which is reviewed by the VVB. After successful review, the project is added to the project pipeline for further processing.
 
